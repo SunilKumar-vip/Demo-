@@ -11,7 +11,7 @@ function EventHandlersComponent() {
   };
   return (
     <div>
-      EventHandlersComponent
+      EventHandlerComponent
       {/* <div>
         <input
           type="text"
