@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 export default class ClassComponent extends Component {
   state = {
-    name: "Sunil Machani",
+    name: "Sunil",
     age: 20,
   };
 
